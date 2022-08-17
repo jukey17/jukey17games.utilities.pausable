@@ -1,0 +1,19 @@
+{
+  "name": "jukey17games.utilities.pausable",
+  "displayName": "Pausable",
+  "author": {
+    "name": "jukey17",
+    "url": "https://github.com/jukey17"
+  },
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "Library for implementing pauseable features.",
+  "keywords": [
+    "pausable"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  }
+}
