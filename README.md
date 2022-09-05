@@ -19,7 +19,7 @@ https://github.com/jukey17/jukey17games.utilities.pausable.git
 ```json:manifest.json
 {
   "dependencies": {
-    "jukey17games.utilities.pausable": "https://github.com/jukey17/jukey17games.utilities.pausable.git"
+    "com.jukey17games.utilities.pausable": "https://github.com/jukey17/jukey17games.utilities.pausable.git"
   }
 }
 ```
